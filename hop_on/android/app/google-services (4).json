@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643880628868",
+    "project_id": "jctsl-86855",
+    "storage_bucket": "jctsl-86855.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643880628868:android:7f9554ba8086cd6ffc48d1",
+        "android_client_info": {
+          "package_name": "com.example.hop_on"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5GCc4v1yuAJp_IEMhRY-xg-GSNhIMzno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
